@@ -1,3 +1,5 @@
+<img src="cover.png" width="70%">
+
 # Pet Health Risk Prediction DNN
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -189,6 +191,7 @@ This design avoids confusion from overall dataset statistics when the user mainl
 ## License
 
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
+All images and visual materials in this repository are protected by copyright. Unauthorized use, reproduction, or distribution is prohibited.
 
 ## Notice
 

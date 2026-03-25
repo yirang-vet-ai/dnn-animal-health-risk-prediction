@@ -1,0 +1,4 @@
+Pet Health Risk Prediction DNN
+Copyright 2026 YIRANG JUNG
+
+Licensed under the Apache License, Version 2.0.
